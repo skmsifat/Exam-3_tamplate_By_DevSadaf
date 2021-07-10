@@ -1,0 +1,1103 @@
+
+
+
+@media (max-width:1920px) {
+    .pogress-content .progress-d-heding:nth-child(1) span {
+        left: 49%;
+    }
+    .pogress-content .progress-d-heding:nth-child(3) span {
+        left: 27%;
+    }
+    .pogress-content .progress-d-heding:nth-child(5) span {
+        left: 57%;
+    }
+}
+
+
+
+
+
+@media (max-width:1399px) {
+    .pogress-content .progress-d-heding:nth-child(1) span {
+        left: 45%;
+    }
+    .pogress-content .progress-d-heding:nth-child(3) span {
+        left: 22%;
+    }
+    .pogress-content .progress-d-heding:nth-child(5) span {
+        left: 52%;
+    }
+
+    
+}
+
+@media (max-width:1199px) {
+   
+    .pogress-content .progress-d-heding:nth-child(1) span {
+        left: 38%;
+    }
+    .pogress-content .progress-d-heding:nth-child(3) span {
+        left: 15%;
+    }
+    .pogress-content .progress-d-heding:nth-child(5) span {
+        left: 45%;
+    }
+}
+
+@media (max-width:1020px) {
+    .about-content h2 {
+        font-size: 27px;
+        margin-bottom: 8px;
+    }
+
+    .about-content .p1 {
+        font-size: 13px;
+        line-height: 1.3rem;
+    }
+
+    .about-content .p2 {
+        font-size: 13px;
+        line-height: 1.3rem;
+    }
+
+    .about-items ul li p {
+        font-size: 13px;
+    }
+
+    .about-items ul li {
+        margin: -12px 0px;
+    }
+
+    .result-content h2 {
+        font-size: 27px;
+        margin-bottom: 8px;
+    }
+
+    .result-content p {
+        font-size: 13px;
+    }
+
+    .result-list ul li .list-content h5 {
+        font-size: 20px;
+    }
+
+    .result-list ul li .list-content p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .result-list ul li .result-icon span {
+        top: -6px;
+        margin-right: 14px;
+        height: 25px;
+        width: 25px;
+        line-height: 27px;
+        font-size: 25px;
+    }
+    .banner::after {
+        display: none;
+    }
+
+}
+
+@media (max-width:1010px) {
+    .research {
+        bottom: 81px;
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:996px) {
+    .research {
+        bottom: 0px;
+
+    }
+
+    .research {
+        bottom: -17px;
+        padding: 4rem 0rem;
+    }
+
+    .carousel .carousel-item .carousel-caption h2 {
+        font-size: 46px;
+        margin-top: 28px;
+    }
+
+}
+
+
+
+@media (max-width:995px){
+    .news  .mk .card .card-body .news-content  .news-img span{
+        height: 8%;
+    } 
+   
+ 
+ }
+
+
+
+
+@media (max-width:990px) {
+    .header-top .hedar-top-left p span {
+        font-size: 13px;
+    }
+
+    .header-top .hedar-top-left p a {
+        font-size: 11px;
+    }
+
+    .hedar-top-right p span {
+        font-size: 13px;
+    }
+
+    .hedar-top-right p {
+        font-size: 11px;
+    }
+
+    .hedar .navbar ul li ul {
+        top: 0%;
+        left: 15%;
+    }
+
+    .hedar .navbar ul li:hover>ul {
+        top: 36%;
+    }
+
+    .hedar .navbar ul li a {
+        padding: 16px 0px;
+    }
+
+    .header-right .span1 {
+        margin-left: 13px;
+    }
+
+    .navbar-toggler {
+        border: 0px !important;
+    }
+
+    .pogress-section h3 {
+        font-size: 2rem;
+        margin-bottom: 14px;
+    }
+
+    .pogress-content .progress-d-heding h4 {
+        display: inline-block;
+        font-size: 1.1rem;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(1) span {
+        left: 52%;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(3) span {
+        left: 30%;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(5) span {
+        left: 60%;
+    }
+
+}
+
+
+
+
+@media (max-width:970px){
+    .about-img {
+        text-align: center;
+    }
+
+}
+
+
+
+@media (max-width:898px) {
+    .carousel .carousel-item .carousel-caption h2 {
+        font-size: 40px;
+        margin-top: 69px;
+    }
+
+    .carousel .carousel-item .carousel-caption p {
+        font-size: 13px;
+    }
+
+    .carousel .carousel-item .carousel-caption .cursol-btn a {
+        padding: 12px 25px;
+
+    }
+
+}
+
+
+
+@media (max-width:768px) {
+    .default-btn {
+        padding: 13px 30px;
+        font-size: 14px;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(1) span {
+        left: 43%;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(3) span {
+        left: 21%;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(5) span {
+        left: 51%;
+    }
+
+}
+
+
+@media (max-width:730px) {
+    .carousel .carousel-item .carousel-caption h2 {
+        font-size: 25px;
+        margin-top: 12px;
+        margin-bottom: 5px;
+    }
+
+    .carousel .carousel-item .carousel-caption p {
+        font-size: 11px;
+    }
+
+    .carousel .carousel-item .carousel-caption p {
+        font-size: 11px;
+        padding: 10px 0px !important;
+        margin-bottom: 5px;
+    }
+
+    .carousel .carousel-item .carousel-caption .cursol-btn a {
+        font-size: 12px;
+        padding: 10px 14px !important;
+    }
+
+}
+
+@media (max-width:768px) {
+    .header-top .col-xl-6.col-lg-6.col-md-6.col-sm-12 {
+        text-align: center;
+        margin-bottom: .2rem;
+    }
+
+    .hedar-top-right p {
+        text-align: center;
+    }
+
+    .hedar .navbar ul li ul {
+        top: 0%;
+        left: 17%;
+    }
+
+    .secound-box {
+        margin-top: 0px;
+    }
+
+    .news  .news-items h3 {
+        font-size: 20px;
+    }
+
+    .news  .news-items .blog-btn a {
+        font-size: 13px;
+    }
+
+    .news  .news-items .blog-btn a span {
+        font-size: 7px;
+        position: relative;
+        top: -1px;
+        margin-left: 3px;
+    }
+
+    
+
+    .news  .card .news-content  .news-img span {
+        font-size: 14px;
+        height: 8%;
+        width: 26%;
+    }
+
+
+
+
+
+}
+
+
+@media (max-width:568px) {
+    .research-content {
+        padding: 20px 34px;
+        margin: 10px 13px;
+    }
+
+    .d-heding span {
+        color: #2554ff;
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+
+    .d-heding {
+        text-align: center;
+        margin-bottom: 2.3rem;
+    }
+
+    .d-heding h3 {
+        font-size: 26px;
+        margin-bottom: 0px;
+    }
+
+    .service-container .service-content h4 {
+        font-size: 18px;
+    }
+
+    .service-container .service-content p {
+        font-size: 13px;
+        line-height: 1.3rem;
+        margin-bottom: 10px;
+    }
+
+    .service-container .service-content a {
+        font-size: 13px;
+    }
+    .news  .mk .card .card-body .news-content  .news-img span {
+        height: 9%;
+    }
+
+}
+
+@media (max-width:550px) {
+    .hedar .navbar ul li ul {
+        width: 170px;
+        left: 30%;
+    }
+
+    .hedar .navbar ul li ul li a span {
+        margin-left: 32px !important;
+    }
+
+    .navbar-toggler-icon {
+        width: 1.2em;
+        height: 1.2em;
+    }
+
+    .hedar .navbar-brand img {
+        width: 82px;
+    }
+
+    .project .card .card-body .card-testi-content h5 {
+        font-size: 18px;
+    }
+
+    .project .card .card-body .card-testi-content span {
+        font-size: 13px;
+    }
+
+    .result-img {
+        padding-left: 0px;
+    }
+
+    .pogress-section p {
+        font-size: .8rem;
+        line-height: 1.5rem;
+    }
+
+    .pogress-content .progress-d-heding h4 {
+        font-size: 1rem;
+    }
+
+    .clients-say .card .card-body .card-img .testi-content h4 {
+        font-size: 20px;
+    }
+
+    .clients-say .card .card-body .card-img .testi-content span {
+        font-size: 14px;
+    }
+
+}
+
+@media (max-width:530px) {
+    .hedar .navbar ul li ul {
+        left: 21%;
+    }
+
+    .carousel .carousel-item .carousel-caption h2 {
+        font-size: 18px;
+        margin-top: 6px;
+    }
+
+    .carousel .carousel-item .carousel-caption p {
+        font-size: 9px;
+        padding: 8px 0px !important;
+    }
+
+    .carousel .carousel-item .carousel-caption .cursol-btn a {
+        font-size: 8px;
+        padding: 6px 9px !important;
+    }
+
+    .banner .carousel button span {
+        height: 30px;
+        width: 30px;
+        font-size: 20px;
+        line-height: 36px;
+    }
+
+    .pogress-section h3 {
+        font-size: 1.688rem;
+        margin-bottom: 11px;
+    }
+
+    .contact-info .main-info span {
+        font-size: .8rem;
+    }
+
+    .contact-info .icon span {
+        margin-right: .7rem;
+    }
+
+    .contact-info .main-info span {
+        display: block !important;
+    }
+
+}
+
+
+
+@media (max-width:478px) {
+    .about-content span {
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+
+    .about-content h2 {
+        font-size: 22px;
+        margin-bottom: 6px;
+    }
+
+    .about-content .p1 {
+        font-size: 11px;
+        line-height: 1.1rem;
+    }
+
+    .about-items ul li span {
+        font-size: 14px;
+        margin-right: 6px;
+    }
+
+    .default-btn {
+        padding: 11px 28px;
+        font-size: 12px;
+    }
+
+    .result-content span {
+        font-size: 12px;
+        margin-bottom: 7px;
+    }
+
+    .result-content h2 {
+        font-size: 24px;
+        margin-bottom: 7px;
+    }
+
+    .result-content p {
+        font-size: 11px;
+        line-height: 20px;
+    }
+
+    .result-list ul li .list-content h5 {
+        font-size: 17px;
+    }
+
+    .result-list ul li .list-content p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .pogress-section h3 {
+        font-size: 1.4rem;
+    }
+
+    .pogress-section p {
+        font-size: .7rem;
+        line-height: 1.1rem;
+    }
+
+    .pogress-content .progress-d-heding h4 {
+        font-size: .8rem;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(1) span {
+        font-size: .8rem;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(3) span {
+        font-size: .8rem;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(5) span {
+        font-size: .8rem;
+    }
+
+    .d-heding h4 {
+        font-size: 18px;
+    }
+
+    .contact-pogress .card .card-body form input::placeholder {
+
+        font-size: .8rem;
+    }
+
+    .form-select {
+        font-size: .8rem;
+
+    }
+
+    .contact-pogress .card .card-body form input~span {
+
+        font-size: .8rem !important;
+    }
+
+    .submit-btn button {
+        font-size: .8rem;
+    }
+
+    .news  .news-items h3 {
+        font-size: 15px;
+    }
+
+    .news  .news-items .blog-btn a {
+        font-size: 11px;
+    }
+
+    .footer-bottom p {
+        font-size: .8rem;
+    }
+
+    .footer-menu h4 {
+        font-size: 18px;
+    }
+
+    .footer-menu h4::after {
+        width: 9%;
+    }
+
+    .footer-menu ul li a {
+        font-size: 13px;
+    }
+
+    .contact-info h4 {
+        font-size: 18px;
+    }
+
+    .contact-info h4::after {
+        width: 9%;
+    }
+
+    .footer-team-social ul {
+        justify-content: center;
+    }
+
+    .footer-info p {
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 14px;
+        text-align: center;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+
+}
+
+@media (max-width:400px) {
+    .research-content .research-icon span {
+        height: 60px;
+        width: 60px;
+        line-height: 67px;
+        font-size: 25px;
+    }
+
+    .research-content .research-icon span::after {
+        top: 0px;
+        right: 6px;
+    }
+
+    .research-content .box-content h5 {
+        font-size: 18px;
+        margin-bottom: 12px;
+    }
+
+    .research-content .box-content p {
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+    .carousel .carousel-item .carousel-caption h2 {
+        font-size: 14px;
+        margin-top: 39px;
+    }
+
+    .carousel .carousel-item .carousel-caption p {
+        font-size: 6px;
+        padding: 3px 0px !important;
+    }
+
+    .carousel .carousel-item .carousel-caption .cursol-btn a {
+        font-size: 6px;
+        padding: 6px 6px !important;
+    }
+
+    .progress {
+        margin-bottom: 1.1rem;
+        height: 8px !important;
+    }
+
+    .c-items h4 {
+        font-size: 30px;
+    }
+
+    .c-items p {
+        font-size: .9rem;
+    }
+
+    .counter-section .container {
+        padding: 1rem 0rem;
+    }
+
+    .clients-say .card .card-body .card-img .testi-content h4 {
+        font-size: 18px;
+        margin-bottom: 7px;
+    }
+
+    .clients-say .card .card-body .card-img .testi-content span {
+        font-size: 12px;
+    }
+
+    .clients-say .card .card-body .card-img .testi-content p {
+        font-size: 13px;
+    }
+
+    .news  .card .news-content  .news-img span {
+        font-size: 11px;
+        height: 11%;
+    }
+
+}
+
+@media (max-width:450px){
+    .news  .card .news-content  .news-img span {
+        height: 10%;
+    }
+}
+
+@media (max-width:378px) {
+    .d-heding h3 {
+        font-size: 23px;
+    }
+
+    .d-heding span {
+        font-size: 13px;
+    }
+
+    .service-container .service-content h4 {
+        font-size: 15px;
+    }
+
+    .service-container .service-content p {
+        font-size: 11px;
+        line-height: 1.1rem;
+        margin-bottom: 6px;
+    }
+
+    .service-container .service-content a {
+        font-size: 11px;
+    }
+
+    .service-container .service-content a span {
+        font-size: 7px;
+    }
+
+    .project .card .card-body .card-testi-content h5 {
+        font-size: 15px;
+    }
+
+    .project .card .card-body .card-testi-content span {
+        font-size: 12px;
+    }
+
+    .result-content h2 {
+        font-size: 20px;
+        margin-bottom: 7px;
+    }
+
+    .result-content p {
+        font-size: 10px;
+        line-height: 17px;
+    }
+
+    .result-list ul li .list-content h5 {
+        font-size: 14px;
+    }
+
+    .result-list ul li .list-content p {
+        font-size: 10px;
+        line-height: 16px;
+    }
+
+    .result-list ul li .result-icon span {
+        top: -5px;
+        margin-right: 9px;
+        height: 18px;
+        width: 18px;
+        line-height: 23px;
+        font-size: 18px;
+    }
+
+    .team-info .testi-content h5 {
+        font-size: 17px;
+    }
+
+    .team-info .testi-content span {
+        font-size: 11px;
+    }
+
+    .contact-pogress {
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+
+    .pogress-section h3 {
+        font-size: 1rem;
+    }
+
+    .pogress-section p {
+        font-size: .5rem;
+        line-height: .9rem;
+    }
+
+    .pogress-content .progress-d-heding h4 {
+        font-size: .6rem;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(1) span {
+        font-size: .6rem;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(3) span {
+        font-size: .6rem;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(5) span {
+        font-size: .6rem;
+    }
+
+    .d-heding h4 {
+        font-size: 14px;
+    }
+
+    .news  .news-items h3 {
+        font-size: 10px;
+        margin-bottom: 0px;
+    }
+
+    .news  .news-items .blog-btn a {
+        font-size: 8px;
+    }
+
+    .news  .news-items .blog-btn a span {
+        font-size: 5px;
+    }
+
+    .footer-bottom p {
+        font-size: .7rem;
+    }
+    .news  .card .news-content  .news-img span {
+        height: 13%;
+    }
+    .news  .mk .card .card-body .news-content  .news-img span {
+        height: 12%;
+    }
+}
+
+@media (max-width:340px) {
+    .header-top {
+        display: none;
+    }
+
+    .about-content h2 {
+        font-size: 16px;
+    }
+
+    .about-content span {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+
+    .about-content .p1 {
+        font-size: 9px;
+        line-height: 1rem;
+    }
+
+    .about-items ul li p {
+        font-size: 10px;
+    }
+
+    .about-items ul li span {
+        font-size: 12px;
+        margin-right: 4px;
+    }
+
+    .default-btn {
+        padding: 9px 15px;
+        font-size: 10px;
+    }
+
+    .c-items h4 {
+        font-size: 20px;
+    }
+
+    .c-items p {
+        font-size: .5rem;
+    }
+
+    .news  .card .news-content  .news-img span {
+        font-size: 10px;
+        height: 12%;
+    }
+
+
+
+
+
+}
+
+@media (max-width:320px) {
+    .research-content .research-icon span {
+        height: 50px;
+        width: 50px;
+        line-height: 56px;
+    }
+
+    .carousel .carousel-item .carousel-caption h2 {
+        font-size: 11px;
+        margin-top: 30px;
+    }
+
+    .carousel .carousel-item .carousel-caption p {
+        font-size: 6px;
+        padding: 0px 0px !important;
+        margin-bottom: 1px;
+    }
+
+    .contact-pogress .card .card-body form input::placeholder {
+        font-size: .6rem;
+    }
+
+    .form-select {
+        font-size: .6rem;
+    }
+
+    .contact-pogress .card .card-body form input {
+        font-size: 10px;
+    }
+
+    .submit-btn button {
+        font-size: .5rem;
+    }
+
+    .footer-bottom p {
+        font-size: .6rem;
+    }
+
+    .footer-info p {
+        font-size: 9px;
+        line-height: 18px;
+        margin-bottom: 14px;
+        text-align: center;
+    }
+
+    .footer-team-social ul li a {
+        height: 30px;
+        width: 30px;
+        line-height: 34px;
+        font-size: 14px;
+    }
+    .news  .mk .card .card-body .news-content  .news-img span {
+        height: 14%;
+    }
+    .news  .card .news-content  .news-img span {
+        height: 14%;
+    }
+
+
+}
+
+@media (max-width:280px) {
+    .research-content .box-content h5 {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .research-content .box-content p {
+        line-height: 14px;
+        font-size: 9px;
+    }
+
+    .about-content span {
+        font-size: 8px;
+        margin-bottom: 4px;
+    }
+
+    .about-content h2 {
+        font-size: 13px;
+    }
+
+    .about-content .p1 {
+        font-size: 8px;
+        line-height: .8rem;
+    }
+
+    .about-items ul li p {
+        font-size: 7px;
+    }
+
+    .about-items ul li span {
+        font-size: 9px;
+        margin-right: 1px;
+    }
+
+    .default-btn {
+        padding: 7px 10px;
+        font-size: 8px;
+    }
+
+    .service-container .service-icon span {
+        height: 50px;
+        width: 50px;
+        line-height: 57px;
+        font-size: 25px;
+    }
+
+    .service-container .service-content h4 {
+        font-size: 11px;
+        margin-bottom: 10px;
+    }
+
+    .service-container .service-content p {
+        font-size: 7px;
+        line-height: .7rem;
+        margin-bottom: 3px;
+    }
+
+    .service-container .service-content a {
+        font-size: 8px;
+    }
+
+    .service-container .service-content a span {
+        font-size: 5px;
+    }
+
+    .d-heding h3 {
+        font-size: 18px;
+    }
+
+    .d-heding span {
+        font-size: 11px;
+        margin-bottom: 3px;
+    }
+
+    .d-heding {
+        margin-bottom: 1.5rem;
+    }
+
+    .project .card .card-body .card-testi-content h5 {
+        font-size: 12px;
+        margin-bottom: 4px;
+    }
+
+    .card-img .card-icon span {
+        height: 25px;
+        width: 37px;
+        font-size: 17px;
+        line-height: 30px;
+
+    }
+
+    .result-content span {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+
+    .result-content h2 {
+        font-size: 16px;
+        margin-bottom: 7px;
+    }
+
+    .result-content p {
+        font-size: 9px;
+        line-height: 15px;
+    }
+
+    .result-list ul li .list-content h5 {
+        font-size: 11px;
+    }
+
+    .result-list ul li .list-content p {
+        font-size: 8px;
+        line-height: 13px;
+    }
+
+    .team-info .testi-content h5 {
+        font-size: 14px;
+    }
+
+    .team-info .testi-content span {
+        font-size: 9px;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(1) span {
+        left: 31%;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(3) span {
+        left: 8%;
+    }
+
+    .pogress-content .progress-d-heding:nth-child(5) span {
+        left: 37%;
+    }
+
+    .c-items h4 {
+        font-size: 15px;
+    }
+
+    .c-items p {
+        font-size: .4rem;
+    }
+
+    .news  .card .news-content  .news-img span {
+        font-size: 8px;
+        height: 14%;
+    }
+
+    .footer-bottom p {
+        font-size: .4rem;
+    }
+
+    .clients-say .card .card-body .card-img .testi-content p {
+        font-size: 11px;
+    }
+}
